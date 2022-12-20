@@ -41,6 +41,21 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "neem",
+      "price": "0.03",
+      "id": 8
+    },
+    {
+      "name": "neem",
+      "price": "0.03",
+      "id": 9
+    },
+    {
+      "name": "neem",
+      "price": "0.02",
+      "id": 10
     }
   ]
 }
